@@ -102,3 +102,6 @@ Zannos氏はセンターを用いたダンサーの動作の検出と音楽へ�
 [^3]: https://lbahp.mitpress.mit.edu/books/supercollider-book
 [^4]: http://www.rossbencina.com/code/oscgroups
 [^5]: https://www.iamas.ac.jp/~mmiwa/rsm.html
+
+---
+Copyright © 2022 Takumi Ikeda All Rights Reserved. 禁無断転載
