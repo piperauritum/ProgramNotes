@@ -12,3 +12,5 @@ Male voice and Computer
 
 #### 初演
 2021年10月1日、杉並公会堂小ホール、松平敬
+---
+*Copyright © 2022 Takumi Ikeda All Rights Reserved. 禁無断転載*

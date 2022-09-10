@@ -5,3 +5,5 @@
 
 #### 演奏
 2017年10月28日、Ftarri 水道橋店、池田拓実・木下正道・多井智紀
+---
+*Copyright © 2022 Takumi Ikeda All Rights Reserved. 禁無断転載*

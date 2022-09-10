@@ -28,3 +28,5 @@ Trb (with 9-axis sensor module), Elec
 
 #### 初演
 2021年3月24日、杉並公会堂小ホール、村田厚生
+---
+*Copyright © 2022 Takumi Ikeda All Rights Reserved. 禁無断転載*

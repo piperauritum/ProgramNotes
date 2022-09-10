@@ -10,3 +10,5 @@ A-Sax, Elec
 
 #### 初演
 2021年9月16日、杉並公会堂小ホール、大石将紀・有馬純寿
+---
+*Copyright © 2022 Takumi Ikeda All Rights Reserved. 禁無断転載*

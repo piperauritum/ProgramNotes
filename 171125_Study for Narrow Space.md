@@ -11,3 +11,5 @@ Vc, Pf
 
 #### 初演
 2017年11月25日、Ftarri 水道橋店、多井智紀・木下正道
+---
+*Copyright © 2022 Takumi Ikeda All Rights Reserved. 禁無断転載*

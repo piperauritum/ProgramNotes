@@ -6,3 +6,5 @@
 String Quartet
 #### 初演
 2016年3月20日、横浜みなとみらいホール 小ホール、亀井庸州・辺見康孝・安田貴裕・多井智紀
+---
+*Copyright © 2022 Takumi Ikeda All Rights Reserved. 禁無断転載*

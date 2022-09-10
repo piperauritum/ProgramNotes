@@ -7,3 +7,5 @@ Sop, Org
 
 #### 初演
 2017年7月21日、霊南坂教会、新藤昌子・塚谷水無子
+---
+*Copyright © 2022 Takumi Ikeda All Rights Reserved. 禁無断転載*

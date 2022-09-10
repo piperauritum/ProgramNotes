@@ -7,3 +7,5 @@ Db, Elec
 
 #### 初演
 2017年10月8日、ソノリウム、佐藤洋嗣
+---
+*Copyright © 2022 Takumi Ikeda All Rights Reserved. 禁無断転載*

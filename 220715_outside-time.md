@@ -7,3 +7,5 @@
 
 #### 初演
 2022年7月15-16日、東京芸術劇場 アトリエ・イースト、檜垣智也
+---
+*Copyright © 2022 Takumi Ikeda All Rights Reserved. 禁無断転載*

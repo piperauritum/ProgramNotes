@@ -7,3 +7,5 @@ Tabletop guitar and SuperCollider
 
 #### 演奏
 2022年1月21日、KMアートホール、池田拓実
+---
+*Copyright © 2022 Takumi Ikeda All Rights Reserved. 禁無断転載*

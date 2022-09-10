@@ -9,3 +9,5 @@
 Vc, Pf
 #### 初演
 2012年4月17日、渋谷ステュディオ、多井智紀・木下正道
+---
+*Copyright © 2022 Takumi Ikeda All Rights Reserved. 禁無断転載*
