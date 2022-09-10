@@ -11,5 +11,6 @@
 
 #### 初演
 2018年7月24日、東京文化会館小ホール、ヴォクスマーナ
+
 ---
 *Copyright © 2022 Takumi Ikeda All Rights Reserved. 禁無断転載*

@@ -21,5 +21,6 @@
 
 #### 演奏
 2017年3月12日、下石神井御嶽神社、池田拓実・木下正道・多井智紀
+
 ---
 *Copyright © 2022 Takumi Ikeda All Rights Reserved. 禁無断転載*

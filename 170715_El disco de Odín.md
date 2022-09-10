@@ -9,5 +9,6 @@ E-Ba
 山田岳
 #### 初演
 2017年7月15日、和光大学 学生ホール、山田岳
+
 ---
 *Copyright © 2022 Takumi Ikeda All Rights Reserved. 禁無断転載*

@@ -8,5 +8,6 @@ All details of this piece were determined by the pitch-tracking data of a record
 
 #### First performance
 9-13 September 2014, Diffusion in the listening room (Curator: Carl Stone) of Unyazi IV Electronic Music Festival, University of the Witwatersrand, Johannesburg
+
 ---
 *Copyright © 2022 Takumi Ikeda All Rights Reserved. 禁無断転載*

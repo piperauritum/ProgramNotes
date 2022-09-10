@@ -15,5 +15,6 @@ Piano and Fixed media
 
 #### 初演
 2021年12月6日、東京オペラシティ リサイタルホール、篠田昌伸・北爪裕道
+
 ---
 *Copyright © 2022 Takumi Ikeda All Rights Reserved. 禁無断転載*
