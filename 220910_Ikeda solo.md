@@ -104,4 +104,4 @@ Zannos氏はセンターを用いたダンサーの動作の検出と音楽へ�
 [^5]: https://www.iamas.ac.jp/~mmiwa/rsm.html
 
 ---
-Copyright © 2022 Takumi Ikeda All Rights Reserved. 禁無断転載
+*Copyright © 2022 Takumi Ikeda All Rights Reserved. 禁無断転載*
