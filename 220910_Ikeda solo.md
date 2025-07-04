@@ -103,5 +103,9 @@ Zannos氏はセンターを用いたダンサーの動作の検出と音楽へ�
 [^4]: http://www.rossbencina.com/code/oscgroups
 [^5]: https://www.iamas.ac.jp/~mmiwa/rsm.html
 
+#### 参考
+
+Iannis Zannos, Takumi Ikeda, “35. Phoenix-Albatross: An Approach to Iannis Xenakis’s Work on Game Theory through Live Coding and Networked Dance”, 2024 [https://doi.org/10.11647/OBP.0390.37](https://doi.org/10.11647/OBP.0390.37)
+
 ---
-*Copyright © 2022 Takumi Ikeda All Rights Reserved. 禁無断転載*
+*Copyright © 2025 Takumi Ikeda All Rights Reserved. 禁無断転載*
