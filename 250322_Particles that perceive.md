@@ -15,5 +15,8 @@ A AB ABC BCD CDE ...
 #### 初演
 2025年3月22日、豊洲シビックセンターホール、ヴォクスマーナ・西川竜太（指揮）
 
+#### 参考
+[https://note.com/piperauritum/n/n1afa9f45801e](https://note.com/piperauritum/n/n1afa9f45801e)
+
 ---
 *Copyright © 2025 Takumi Ikeda All Rights Reserved. 禁無断転載*
