@@ -135,7 +135,7 @@ Music is generated through diagrammatic operations in two-dimensional space. The
 
 Group-theoretic operations serve as the compositional principle. Using the rotation group of a cube with eight vertices as material, parameters such as pitch, dynamics, and density are transformed.
 
-#### Ikeda, *Planetary Systems* (2022)
+#### Ikeda, *Planetary systems, or Double duet for the Outside of Time* (2022)
 
 The path of an Eulerian circuit through a complete bipartite graph comprising two groups of six nodes each forms the structural backbone of Part I. The work takes as its concept the removal of time from music; by presenting one arbitrarily chosen path through a graph-based structure that exists outside of time, the entire space of possibilities is made to be represented. The graph is also displayed in the program note, making it possible, should the listener wish, to follow the graph visually while hearing the performance.
 
