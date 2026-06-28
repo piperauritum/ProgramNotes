@@ -194,9 +194,9 @@ The provisionality of the categories presented here is partly a matter of classi
 
 ---
 ## References
-- *Yume to Kazu: Ongaku no Goho* [Dream and Number: A Grammar of Music], Tōru Takemitsu, Libro Port, 1987
-- *Takemitsu Tōru: Hibiki no Umi e* [Tōru Takemitsu: Toward a Sea of Sound], Takashi Funayama, Ongaku no Tomo Sha, 1998
-- *The Music of Toru Takemitsu*, Peter Burt, Cambridge University Press, 2001 [Japanese translation: trans. Mitsuko Ono, Ongaku no Tomo Sha, 2006]
+- *夢と数：音楽の語法* [Dream and Number: A Grammar of Music], Tōru Takemitsu, Libro Port, 1987
+- *武満徹：響きの海へ* [Tōru Takemitsu: Toward a Sea of Sound], Takashi Funayama, Ongaku no Tomo Sha, 1998
+- *武満徹の音楽*, Peter Burt, Cambridge University Press, 2001 [Japanese translation: trans. Mitsuko Ono, Ongaku no Tomo Sha, 2006]
 - "Musical Time/Musical Space," Robert P. Morgan, 1980
 - "The Thickness of Pitch: Crossmodal Metaphors in Farsi, Turkish, and Zapotec," Shakila Shayan, Ozge Ozturk, and Mark A. Sicoli, 2011
 - Program note for *Planetary Systems, or Double duet for the Outside of Time*, Takumi Ikeda, 2022 https://github.com/piperauritum/ProgramNotes/blob/main/221207_Planetary%20systems.md
@@ -204,7 +204,7 @@ The provisionality of the categories presented here is partly a matter of classi
 - "Spatialization in the piano works of Claude Debussy," Alexander M. Thomas, 2022
 - "Analyse de Dialogue de l'ombre double (1985) de Pierre Boulez," Andrew Gerzso https://ressources.ircam.fr/fr/analysis/analyse-de-i-dialogue-de-l-ombre-double-i-(1985)-de-pierre-boulez
 - "Interpretative Approach of Dialogue de l'ombre double by Pierre Boulez," Juan Luna, 2025 https://www.researchcatalogue.net/view/2480760/3194050
-- *Chi no Kakumeika-tachi: Karlheinz Stockhausen — Watashi wa Oto ni Naru* [Revolutionaries of Knowledge: Karlheinz Stockhausen — I Become Sound], Takashi Matsudaira, Suiseisha, 2026
+- *知の革命家たち：カールハインツ・シュトックハウゼン 私は音になる* [Revolutionaries of Knowledge: Karlheinz Stockhausen — I Become Sound], Takashi Matsudaira, Suiseisha, 2026
 
 ---
 *Copyright © 2026 Takumi Ikeda All Rights Reserved. Unauthorized reproduction prohibited.*
